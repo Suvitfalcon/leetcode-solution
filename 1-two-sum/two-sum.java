@@ -10,11 +10,15 @@ class Solution {
                 };
                 
             }
+            // solution
+            // ?hbjg
 
             
             map.put(nums[i],i);
             
         }
+
+
 
         return new int[] {}; 
     }
