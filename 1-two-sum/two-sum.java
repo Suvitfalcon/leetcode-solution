@@ -11,7 +11,7 @@ class Solution {
                 
             }
             // solution
-            // ?hbjg
+            // ?hb
 
             
             map.put(nums[i],i);
