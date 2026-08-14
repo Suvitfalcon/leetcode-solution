@@ -3,7 +3,7 @@ class Solution {
         List<String> result= new ArrayList<>();
 
         for (int i=1;i<=n;i++){
-            if (i%3==0 && i%5==0){
+            if (i%15==0){
                 result.add("FizzBuzz");
             }
             else if (i%3==0){
