@@ -1,6 +1,6 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
-        List<String> result= new ArrayList<>();
+        List<String> result= new ArrayList<>(n);
 
         for (int i=1;i<=n;i++){
             if (i%15==0){
