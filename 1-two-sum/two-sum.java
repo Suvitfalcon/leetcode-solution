@@ -12,7 +12,7 @@ class Solution {
             }
             
             
-            // jnsds
+            // 
 
             
             map.put(nums[i],i);
