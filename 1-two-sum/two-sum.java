@@ -8,9 +8,9 @@ class Solution {
                 return new int[]{
                     map.get(cones),i
                 };
-                
+                // cet 1
             }
-            // hb
+            
 
             
             map.put(nums[i],i);
