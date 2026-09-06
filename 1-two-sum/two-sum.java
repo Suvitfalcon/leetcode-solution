@@ -10,8 +10,8 @@ class Solution {
                 };
             
             }
-            
-// hcbj
+           
+
             
             map.put(nums[i],i);
             
