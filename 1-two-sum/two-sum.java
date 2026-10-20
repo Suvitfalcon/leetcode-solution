@@ -6,7 +6,7 @@ class Solution {
                 if(count==target){
                     return new int[] {i,j};
 
-          
+        //   jj
                 }
             }
         }
